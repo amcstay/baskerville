@@ -1,2 +1,2 @@
 # John Baskerville
-<a>https://amcstay.github.io/baskerville/baskerville.html</a>
+<a> https://amcstay.github.io/baskerville/</a>
