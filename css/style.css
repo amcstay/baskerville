@@ -104,21 +104,19 @@ a {
   }
 
   hr {
-      margin: 100px 0;
-      height: 1px;
-      background-color: violet;
-      border: 0 none;
-  }
+    margin: 100px 0;
+    height: 1px;
+    background-color: violet;
+    color: violet;
+    border: 0 none;
+}
 
-  footer {
-      bottom: 0;
-      left: 0;
-      font-size: 0.75rem;
-      margin:  4rem 0;
-      background-color: rgb(104, 58, 104);
-      width: 100%;
-      padding: 2em 10;
-  }
+footer {
+    text-align: center;
+    font-size: 0.75rem;
+    margin: 6em 0 3em 0
+    padding: 2em 10;
+}
  
 
 
